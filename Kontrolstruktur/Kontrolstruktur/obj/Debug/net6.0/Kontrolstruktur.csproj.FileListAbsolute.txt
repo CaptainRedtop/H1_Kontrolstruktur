@@ -1,0 +1,15 @@
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\bin\Debug\net6.0\Kontrolstruktur.exe
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\bin\Debug\net6.0\Kontrolstruktur.deps.json
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\bin\Debug\net6.0\Kontrolstruktur.runtimeconfig.json
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\bin\Debug\net6.0\Kontrolstruktur.dll
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\bin\Debug\net6.0\Kontrolstruktur.pdb
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\obj\Debug\net6.0\Kontrolstruktur.csproj.AssemblyReference.cache
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\obj\Debug\net6.0\Kontrolstruktur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\obj\Debug\net6.0\Kontrolstruktur.AssemblyInfoInputs.cache
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\obj\Debug\net6.0\Kontrolstruktur.AssemblyInfo.cs
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\obj\Debug\net6.0\Kontrolstruktur.csproj.CoreCompileInputs.cache
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\obj\Debug\net6.0\Kontrolstruktur.dll
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\obj\Debug\net6.0\refint\Kontrolstruktur.dll
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\obj\Debug\net6.0\Kontrolstruktur.pdb
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\obj\Debug\net6.0\Kontrolstruktur.genruntimeconfig.cache
+C:\Users\zbc23nksk\source\repos\Kontrolstruktur\Kontrolstruktur\obj\Debug\net6.0\ref\Kontrolstruktur.dll
