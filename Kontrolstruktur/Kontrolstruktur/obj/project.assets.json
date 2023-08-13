@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\zbc23nksk\\.nuget\\packages\\": {}
+    "C:\\Users\\klich\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zbc23nksk\\source\\repos\\Kontrolstruktur\\Kontrolstruktur\\Kontrolstruktur.csproj",
+      "projectUniqueName": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H1_Kontrolstruktur\\Kontrolstruktur\\Kontrolstruktur\\Kontrolstruktur.csproj",
       "projectName": "Kontrolstruktur",
-      "projectPath": "C:\\Users\\zbc23nksk\\source\\repos\\Kontrolstruktur\\Kontrolstruktur\\Kontrolstruktur.csproj",
-      "packagesPath": "C:\\Users\\zbc23nksk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zbc23nksk\\source\\repos\\Kontrolstruktur\\Kontrolstruktur\\obj\\",
+      "projectPath": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H1_Kontrolstruktur\\Kontrolstruktur\\Kontrolstruktur\\Kontrolstruktur.csproj",
+      "packagesPath": "C:\\Users\\klich\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\klich\\Source\\Repos\\CaptainRedtop\\H1_Kontrolstruktur\\Kontrolstruktur\\Kontrolstruktur\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\zbc23nksk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\klich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

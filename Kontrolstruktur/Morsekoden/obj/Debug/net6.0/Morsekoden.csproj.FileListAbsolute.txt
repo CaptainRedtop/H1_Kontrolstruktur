@@ -1,0 +1,15 @@
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\bin\Debug\net6.0\Morsekoden.exe
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\bin\Debug\net6.0\Morsekoden.deps.json
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\bin\Debug\net6.0\Morsekoden.runtimeconfig.json
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\bin\Debug\net6.0\Morsekoden.dll
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\bin\Debug\net6.0\Morsekoden.pdb
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\obj\Debug\net6.0\Morsekoden.csproj.AssemblyReference.cache
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\obj\Debug\net6.0\Morsekoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\obj\Debug\net6.0\Morsekoden.AssemblyInfoInputs.cache
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\obj\Debug\net6.0\Morsekoden.AssemblyInfo.cs
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\obj\Debug\net6.0\Morsekoden.csproj.CoreCompileInputs.cache
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\obj\Debug\net6.0\Morsekoden.dll
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\obj\Debug\net6.0\refint\Morsekoden.dll
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\obj\Debug\net6.0\Morsekoden.pdb
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\obj\Debug\net6.0\Morsekoden.genruntimeconfig.cache
+C:\Users\klich\source\repos\CaptainRedtop\H1_Kontrolstruktur\Kontrolstruktur\Morsekoden\obj\Debug\net6.0\ref\Morsekoden.dll
